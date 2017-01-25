@@ -1,0 +1,4 @@
+.homeVid.vtwo{margin:auto;float:none;overflow: hidden;} #widescreen, #widescreen2 { background: #ececec !important; } .homeHero3 {padding-bottom: 50px;}
+@media screen and (min-width: 1000px) {
+  h2.heading2{font-size:3.5em !important}
+}

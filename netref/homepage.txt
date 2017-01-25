@@ -1,0 +1,102 @@
+<div id="home" class="hero home_bg" style="background-image: url(https://www.net-ref.com/wp-content/themes/netref/images/oasis_home.png)">
+<div class="girl_bg">
+<div class="homeText">
+<div class="heroPadding">
+<h1>Minimize Internet Distractions</h1>
+[popuphometop]
+</div>
+</div>
+</div>
+</div>
+<div class="homeHero3">
+<h2>NetRef Creates School Internet Boundaries</h2>
+<div class="schoolNhome">
+<div class="homeSchool style="margin-bottom: 40px;">
+<h3>For Teachers</h3>
+
+<b>Turn a potential distraction into a powerful learning tool that keeps students on task.</b>
+
+NetRef’s simple one-click controls enable teachers to monitor and manage student and classroom Internet activity in real-time on any school- or student-owned device. No downloads or IT needed. Use NetRef as an Internet filter to allow, block or whitelist web browsing, apps, texting, instant messaging, social media, and games.
+
+<!--<a href="<?php echo esc_url( home_url( '/' ) ); ?>educators/" title="teachers">Get NetRef for Educators</a> -->
+</div>
+<div class="homeSchool">
+<h3>For IT and Administrators</h3>
+
+<b>Simplify Internet management in BYOD and 1:1 schools, and ensure that online learning contributes to positive, productive learning environments.</b>
+
+NetRef’s district- and school-wide Internet reporting allows IT staff to monitor and reduce spending on apps and programs that aren’t being used. Administrators can use reports to share with parents how online programs support learning and to gather insight into Internet use for budgeting and instruction.<br><br>
+All of this can be done with no downloads on student devices.
+<!-- <a href="<?php echo esc_url( home_url( '/' ) ); ?>parents/" title="parents">Get NetRef for Home</a> -->
+<a class="orangeBtn eduBtn" href="[site_url]/educators/"> Get NetRef for Your School</a>
+</div>
+</div>
+<div class="homeiOS" style="background: #ECECEC;">
+<h3 class="summer2015"></h3>
+<img src="[site_url]/wp-content/themes/netref/images/distraction.png" alt="distracted students" />
+
+</div>
+</div>
+[video1]
+
+<div class="homeHero2" style="background: #ECECEC;">
+<h2 class="heading2">Internet Management Made Easy</h2>
+<div class="exploration fifty"><img src="[site_url]/wp-content/themes/netref/images/easyUse.png" />
+<h3>Simple Integration and Implementation</h3>
+NetRef integrates seamlessly into your current technology infrastructure, and its network-based approach requires no downloads or installation on devices. NetRef offers classroom Internet management without affecting school- or district-wide Internet use. Use it to reduce technology distractions and enforce School Internet and Usage Policies.
+
+</div>
+<div class="exploration fifty"><img src="[site_url]/wp-content/themes/netref/images/guide.png" />
+<h3>Powerful Student Device Management</h3>
+Use NetRef to guide students’ learning. The software acts as a real-time Internet monitor, allowing teachers to manage individual student and classroom Internet use while also providing insightful usage reports to IT and administrators. NetRef is BYOD and 1:1 compatible, and it works on all student- or school-owned devices including iPads, Chromebooks, laptops, tablets, desktop computers, and smartphones.
+
+</div>
+[popupbtn2]
+
+</div>
+<!----- End of homeHero2 ------>
+
+<div class="homeHero4 grey">
+<h2>What Sets Us Apart</h2>
+<div class="col_3">
+<div class="oneBythree protection"><img src="[site_url]/wp-content/themes/netref/images/protection.png" />
+<h3>BYOD and 1:1 Simplified</h3>
+Quick installation, no device downloads required; compatible with any device.
+
+</div>
+<div class="oneBythree easy2use"><img src="[site_url]/wp-content/themes/netref/images/easy2use.png" />
+<h3>User Friendly</h3>
+Easy and intuitive one-click controls empower teachers and reduce over reliance on IT.
+
+</div>
+<div class="oneBythree versatile"><img src="[site_url]/wp-content/themes/netref/images/versatile.png" />
+<h3>Enhanced Data</h3>
+School-wide reports provide insight on Internet usage for budgeting and instructional improvement.
+
+</div>
+</div>
+</div>
+<div class="homeHero5" style="background: #ECECEC;">
+<h2>Available on All Platforms</h2>
+<img style="width: 150px; display: block; margin: 0px auto 2em;" src="[site_url]/wp-content/themes/netref/images/ios Android.png" alt="iOS android" />
+<img src="[site_url]/wp-content/themes/netref/images/net-ref_application.png" />
+
+Supports iPads, Chromebooks, Tablets, Laptops, Desktops &amp; Cell Phones
+
+[popupbtn2]
+
+</div>
+<div class="homeHero6">
+<h2>As Featured In:</h2>
+<ul class="firstrow">
+ 	<li><img src="[site_url]/wp-content/themes/netref/images/scholastic_logo_net-ref.png" alt="scholastic blog" /></li>
+ 	<li><img src="[site_url]/wp-content/themes/netref/images/Washington_post.jpg" alt="the_washington_post" /></li>
+ 	<li><img src="[site_url]/wp-content/themes/netref/images/Yahoo.jpg" alt="yahoo_finance" /></li>
+ 	<li><img src="[site_url]/wp-content/themes/netref/images/Miami_herrald.jpg" alt="the_miami_herald" /></li>
+</ul>
+<ul class="secondrow">
+ 	<li><img src="[site_url]/wp-content/themes/netref/images/education_drive.jpg" alt="education drive" /></li>
+ 	<li><img src="[site_url]/wp-content/themes/netref/images/edcicruit_logo.png" alt="edcircuit logo" /></li>
+</ul>
+</div>
+[blogpost]
